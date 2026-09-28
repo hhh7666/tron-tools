@@ -1,0 +1,14 @@
+{
+  "$schema": "https://glama.ai/mcp/schemas/server.json",
+  "name": "tron-tools",
+  "description": "Free TRON utilities MCP server for AI agents",
+  "repository": "https://github.com/hhh7666/tron-tools",
+  "homepage": "https://github.com/hhh7666/tron-tools",
+  "transport": {
+    "type": "stdio"
+  },
+  "command": {
+    "type": "node",
+    "package": "tron-tools"
+  }
+}
